@@ -90,6 +90,6 @@
 
 ###
 
-<img align="left" height="45" src="https://cdn-icons-png.flaticon.com/256/197/197374.png"  />
+<img align="left" height="42" src="https://cdn-icons-png.flaticon.com/256/197/197374.png"  />
 
 ###
