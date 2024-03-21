@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Some of the things I use and learned</h2>
+<h2 align="left">Some of the things I use and have learned</h2>
 
 ###
 
