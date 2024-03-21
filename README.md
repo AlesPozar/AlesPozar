@@ -53,6 +53,14 @@
 ###
 
 <div align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968770.png" height="40" alt="wix logo"  />
+  <img width="12" />
+  <img src="https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/326496423_570405018295114_1241809581195974265_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=q2poVQjE4dcAX-TFGrl&_nc_ht=scontent-vie1-1.xx&oh=00_AfBSM2Lb7AqhvuSMRogRHyf5SShMnsyClFxnm_mCIFI7EA&oe=6601B774" height="40" alt="tilda logo"/>
+</div>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" alt="atom logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
@@ -64,6 +72,12 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="40" alt="instagram logo"  />
 </div>
 
 ###
