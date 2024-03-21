@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Student at University of Ljubljana, Faculty of Computer and Information Science.<br>Currently I’m working on a side project, which I might use as my thesis (for diploma), or at least as a cool linkedin display, of some of my skills I learned on the way.</p>
+<p align="left">Student at University of Ljubljana, Faculty of Computer and Information Science.<br>Currently I’m working on a side project, which I might use as my thesis (for diploma), or at least as a cool linkedin display, of some of my skills I have learned on the way.</p>
 
 ###
 
-<h2 align="left">Some of the things I use and have learned</h2>
+<h2 align="left">Some of the things I use/used and have learned</h2>
 
 ###
 
@@ -92,6 +92,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" height="40" alt="SQLite logo"  />
 </div>
 
 ###
