@@ -55,7 +55,7 @@
 <div align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968770.png" height="40" alt="wix logo"  />
   <img width="12" />
-  <img src="https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/326496423_570405018295114_1241809581195974265_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=q2poVQjE4dcAX-TFGrl&_nc_ht=scontent-vie1-1.xx&oh=00_AfBSM2Lb7AqhvuSMRogRHyf5SShMnsyClFxnm_mCIFI7EA&oe=6601B774" height="40" alt="tilda logo"/>
+  <img src="https://www.searchenginejournal.com/wp-content/uploads/2022/02/logo_400-6215142c86c85-sej-200x200.jpg" height="40" alt="wix logo"  />
 </div>
 
 ###
