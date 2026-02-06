@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">HI!</h1>
 
 ###
 
-<p align="left">Student at University of Ljubljana, Faculty of Computer and Information Science.<br>Currently I’m working on a side project, which I might use as my thesis (for diploma), or at least as a cool linkedin display, of some of my skills I have learned on the way.</p>
+<p align="left">Student at the University of Ljubljana, Faculty of Computer and Information Science.<br>Currently I’m working on a side project, which I might use as my thesis (for diploma), or at least as a cool linkedin display, of some of my skills I have learned on the way.</p>
 
 ###
 
@@ -30,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" height="40" alt="next.js logo"  />
 </div>
 
 ###
@@ -43,11 +45,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURXSVJcJLHRlQApPQ2jJBniDiuSsdos84MA&s" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ###
@@ -55,7 +59,9 @@
 <div align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968770.png" height="40" alt="wix logo"  />
   <img width="12" />
-  <img src="https://www.searchenginejournal.com/wp-content/uploads/2022/02/logo_400-6215142c86c85-sej-200x200.jpg" height="40" alt="wix logo"  />
+  <img src="https://www.searchenginejournal.com/wp-content/uploads/2022/02/logo_400-6215142c86c85-sej-200x200.jpg" height="40" alt="tilda logo"  />
+  <img width="12" />
+  <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/vercel-logo-icon.png" height="40" alt="vercel logo" />
 </div>
 
 ###
@@ -83,19 +89,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
 </div>
 
+<h2 align="left">DevOps & Cloud</h2>
+
 ###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+</div>
 
 <h2 align="left">Currently learning</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/solidity/363636" height="40" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" height="40" alt="SQLite logo"  />
 </div>
 
